@@ -1,13 +1,17 @@
 # Bookmark for developer role
 
 ### Video learning
+
 * [Laracast](https://laracasts.com/): PHP Laravel Framework, Vue and Design Pattern for MVP.
 
 ### REPL (Read eval print loop)
+
 is shell for run programming language directly
 
 ### Semantic Versioning
+
 For versioning your software (MAJOR.MINOR.PATCH)
+
 * MAJOR version when you make **incompatible API changes**,
 * MINOR version when you add functionality in a **backwards-compatible** manner, and
 * PATCH version when you make **backwards-compatible bug fixes**.
@@ -15,7 +19,9 @@ For versioning your software (MAJOR.MINOR.PATCH)
 REF: [semver](http://semver.org/)
 
 ### YAML Syntax
+
 human-readable data serialize language that mostly used for configuration file. Be alternate choices with JSON and XML.
+
 ```yaml
 receipt: Oz-Ware Purchase Invoice
 date: 2012-08-06
@@ -54,10 +60,11 @@ specialDelivery:  >
 REF: [YAML](https://en.wikipedia.org/wiki/YAML)
 
 ### CORS (Cross-origin resource sharing)
+
 For security reason that domain will only allow request from its own domain only as default. In short, browser not allow fire request to different domain.
-* 
+
 * PUT, DELETE or send content type as application/json, required preflight request.
-REF: 
+
 * [How to enable CORS in server](https://enable-cors.org/server.html)
 * [Same origin policy about CORS](https://en.wikipedia.org/wiki/Same-origin_policy#Origin_determination_rules)
 * [Chrome extension](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en) to allow-origin as * to develop in local
