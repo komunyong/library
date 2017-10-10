@@ -1,17 +1,17 @@
 # Bookmark for developer role
 
 
-### Video learning
+# Video learning
 
 * [Laracast](https://laracasts.com/): PHP Laravel Framework, Vue and Design Pattern for MVP.
 
 
-### REPL (Read eval print loop)
+# REPL (Read eval print loop)
 
 is shell for run programming language directly
 
 
-### Semantic Versioning
+# Semantic Versioning
 
 For versioning your software (MAJOR.MINOR.PATCH)
 
@@ -22,7 +22,7 @@ For versioning your software (MAJOR.MINOR.PATCH)
 REF: [semver](http://semver.org/)
 
 
-### YAML Syntax
+# YAML Syntax
 
 human-readable data serialize language that mostly used for configuration file. Be alternate choices with JSON and XML.
 
@@ -64,7 +64,7 @@ specialDelivery:  >
 REF: [YAML](https://en.wikipedia.org/wiki/YAML)
 
 
-### CORS (Cross-origin resource sharing)
+# CORS (Cross-origin resource sharing)
 
 For security reason that domain will only allow request from its own domain only as default. In short, browser not allow fire request to different domain.
 
@@ -75,7 +75,7 @@ REF:
 * [Same origin policy about CORS](https://en.wikipedia.org/wiki/Same-origin_policy#Origin_determination_rules)
 * [Chrome extension](https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi?hl=en) to allow-origin as * to develop in local
 
-### UUID/GUID
+# UUID/GUID
 Universally Unique Identifier / globally unique identifier is 128-bit number used to identify information in computer systems, mostly required unique in huge system. MySQL uses UUID version 1 which is a 128-bit number represented by a utf8 string of five hexadecimal numbers (58e0a7d7–eebc–11d8-9669-0800200c9a66)
 * The first three group numbers are generated from a timestamp.
 * The fourth group number preserves temporal uniqueness in case the timestamp value loses monotonicity (for example, due to daylight saving time).
@@ -85,3 +85,23 @@ REF:
 * [Store UUID Optimized Way](https://www.percona.com/blog/2014/12/19/store-uuid-optimized-way/)
 * [Postgres UUID Usage](https://www.postgresql.org/docs/9.4/static/datatype-uuid.html)
 * [MySQL UUID Usage](https://dev.mysql.com/doc/refman/5.7/en/miscellaneous-functions.html#function_uuid)
+
+# Compile concept - just-in-time (JIT) and ahead-of-time (AOT)
+
+* JIT is compile part of code to executable file only part that need to run, install fast but slow usage (require to compile a little bit before execute)
+* AOT is compile all source code to executable file at first time (installing app), install slow but fast usage
+
+# Why keep SQL out from source code
+
+* Easy to track when need to modify
+* New developer can easy to learn DB Structure
+* Easy to maintain when change schema
+* Migrate to another framework easily
+
+ REF: [Keep SQL out of code](http://www.javapractices.com/topic/TopicAction.do?Id=105)
+
+# Log
+
+[Node JS Logging](https://blog.risingstack.com/node-js-logging-tutorial/)
+[Centralized Log in Distributed System](https://www.elastic.co/)
+[Centralized Log with AWS Solution](https://aws.amazon.com/answers/logging/centralized-logging/)
