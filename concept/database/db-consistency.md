@@ -1,6 +1,7 @@
 # Database Consistency
 
 ## Eventually Consistency
+
 * Use some rule to apply replicate data.
 * Allow to request anytime, it possible for client to see conflict.
 * Eventually all request will get same response.
@@ -13,9 +14,11 @@
   * **After resolve conflict**: [A] and [B] will get 'Doe' when read.
 
 ## Strong Consistency
+
 * Make sure new data available to every request access...
 
 ## Weak Consistency
+
 * Not guarantee latest updated data to return for any access....
 * Example:
   * A = 0
@@ -24,6 +27,7 @@
   * y get 0
 
 ### References
+
 * [Eventually Consistent](http://www.allthingsdistributed.com/2008/12/eventually_consistent.html): 
 * [CAP Theorem](https://en.wikipedia.org/wiki/CAP_theorem): Problem about read/write data in Distribution System.
 * [ACID](https://en.wikipedia.org/wiki/ACID):
