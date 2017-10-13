@@ -13,11 +13,11 @@ All knowledge that I've learn from working life. For remind myself about "How to
 
 * [Columnar Database](concept/database/columnar.md)
 * [Database Consistency](concept/database/db-consistency.md)
-* [3rd Party Service](concept/programming/3rd-party-services)
-* [Data Science](concept/programming/data-scientist)
-* [Development](concept/programming/developer)
-* [Networking / Devops](concept/programming/networking-devops)
-* [UX / UI](concept/programming/ux-ui)
+* [3rd Party Service](concept/3rd-party-services.md)
+* [Data Science](concept/data-scientist)
+* [Development](concept/developer)
+* [Networking / Devops](concept/networking-devops)
+* [UX / UI](concept/ux-ui)
 
 ## Tutorial / How-to
 
