@@ -110,7 +110,7 @@ REF:
 
  REF: [Keep SQL out of code](http://www.javapractices.com/topic/TopicAction.do?Id=105)
 
-## Log
+## Log / Search Platform
 
 [Node JS Logging](https://blog.risingstack.com/node-js-logging-tutorial/)
 [Centralized Log in Distributed System](https://www.elastic.co/)
