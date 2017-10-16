@@ -16,12 +16,17 @@ All service that i've use or know from work life.
 
 ## Analytic
 
+### Services
+
+* [Data Science Toolbox](http://datasciencetoolbox.org/)
 * [Keen IO](https://keen.io/) - APIs for streaming, analyzing, and embedding rich data in everything you build.
+* [Rawgraph](http://rawgraphs.io/) - Free online tool for simple visualization as data exploration.
+
+### Libraries
+
 * [D3 JS](https://d3js.org/)
 * [D3 Showcases](https://bl.ocks.org/)
-* [Data Science Toolbox](http://datasciencetoolbox.org/)
 * [BeakerX](https://github.com/twosigma/beakerx) - Jupyter Notebook Extension, make interactive graph, parse to javascript and more.
-* [Rawgraph](http://rawgraphs.io/) - Free online tool for simple visualization as data exploration.
 * [Highchart](https://www.highcharts.com/) - JS Library for interactive chart.
 * [Apache MXNet](https://mxnet.incubator.apache.org/) - A Flexible and Efficient Library for Deep Learning, have AWS Service for MXNet.
 * [Tensor Flow](https://www.tensorflow.org/) - An open-source software library for Machine Intelligence
@@ -42,8 +47,12 @@ All service that i've use or know from work life.
 * [Wireshark](https://www.wireshark.org/) - Free software to track network traffic.
 * [Ansible](https://www.ansible.com/) - Automated script for devops (eg.deployment process).
 * [Apache Solr](http://lucene.apache.org/solr/) - Search platform built on Apache Lucene.
+* [Apache Storm](http://storm.apache.org/) - free and open source distributed realtime computation system.
 * [Elastic Search](https://www.elastic.co/) - Search platform for analyze data in real-time
 * [Kibana](https://www.elastic.co/products/kibana) - UI or Window to Elastic Stack / Elastic Search to visual real-time analysis.
+* [Grafana](https://grafana.com/) - The open platform for beautiful analytics and monitoring
+* [Let's Encrypt](https://letsencrypt.org/) - Let’s Encrypt is a free, automated, and open Certificate Authority.
+* [Cert Bot](https://certbot.eff.org/) - Automatically enable HTTPS on your website with EFF's Certbot, deploying Let's Encrypt certificates.
 
 ## Team Helper
 

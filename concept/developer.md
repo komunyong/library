@@ -150,5 +150,6 @@ REF:
 
 ## Terminal Modify
 
-* [zsh](http://www.zsh.org/)
+* [cmder](http://cmder.net/) - Portable console emulator for Windows
+* [zsh](http://www.zsh.org/) - shell designed for interactive use, although it is also a powerful scripting language.
 * [oh-my-zsh](http://ohmyz.sh/)
