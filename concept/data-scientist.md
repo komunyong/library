@@ -39,3 +39,4 @@
 
 [WindML](http://www.wildml.com/) - Blog post about Machine Learning
 [Analytics Vidhya](https://www.analyticsvidhya.com/) - Blog post about Analytic
+[Apache MXNet - Gluon](http://gluon.mxnet.io/) - Machine Learning, Deep Learning concept and tutorial with Apache MXNet.

@@ -29,6 +29,8 @@ All service that i've use or know from work life.
 * [BeakerX](https://github.com/twosigma/beakerx) - Jupyter Notebook Extension, make interactive graph, parse to javascript and more.
 * [Highchart](https://www.highcharts.com/) - JS Library for interactive chart.
 * [Apache MXNet](https://mxnet.incubator.apache.org/) - A Flexible and Efficient Library for Deep Learning, have AWS Service for MXNet.
+* [Gluon - Apache MXNet](https://mxnet.incubator.apache.org/gluon/index.html)
+* [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit/) - A **free**, easy-to-use, open-source, commercial-grade toolkit that trains **deep learning** algorithms to learn like the human brain (C++, Python).
 * [Tensor Flow](https://www.tensorflow.org/) - An open-source software library for Machine Intelligence
 * [Keras](https://keras.io/) - Python Deep Learning Library.
 * [nVidia GPU Computing](https://developer.nvidia.com/cuda-zone) - Develop, Optimize and Deploy GPU-accelerated Apps.
