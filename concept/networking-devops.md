@@ -14,3 +14,4 @@
 ## References
 
 [Devops Blogs](https://www.sumologic.com/blog/)
+[AWS White Papers](https://aws.amazon.com/whitepapers/)
