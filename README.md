@@ -6,7 +6,7 @@ All knowledge that I've learn from working life. For remind myself about "How to
 
 ## Cheatsheet / Shortcut
 
-* [Jupyter Notebook](cheatsheets/jupyter-notebook.md)
+* [Jupyter Notebook](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 * [VI Command](http://www.lagmonster.org/docs/vi.html)
 
 ## Concept / Summary
