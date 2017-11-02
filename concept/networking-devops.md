@@ -15,3 +15,4 @@
 
 [Devops Blogs](https://www.sumologic.com/blog/)
 [AWS White Papers](https://aws.amazon.com/whitepapers/)
+[Local Stack](https://github.com/localstack/localstack): LocalStack provides an easy-to-use test/mocking framework for developing Cloud applications.
