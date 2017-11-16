@@ -43,14 +43,3 @@ table_things(apple = 'fruit', cabbage = 'vegetable')
 ```
 
 Reference: https://stackoverflow.com/questions/3394835/args-and-kwargs
-
-
-## Alias python3 and pip3 usage
-
-Edit last line of `~/.bashrc` or `~/.zshrc` with
-
-alias python=python3
-alias pip3=pip
-
-then execute
-  source ~/.zshrc or source ~/.bashrc
