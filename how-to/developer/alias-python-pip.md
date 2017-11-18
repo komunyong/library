@@ -4,7 +4,7 @@ Edit last line of `~/.bashrc`, `~/.bash_aliases` or `~/.zshrc` with
 
 ```sh
 alias python=python3
-alias pip3=pip
+alias pip=pip3
 ```
 
 **Note**: You can point to python 3.6 as `python3.6`
