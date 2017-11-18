@@ -17,9 +17,13 @@ apt install oracle-java8-installer
 
 2. Install Scala (v.2.11.8)
 
-`apt install scala`
+```sh
+apt install scala
+```
 
-  1. Install sbt, module builder for Scala
+3. This step is your choices for language usage, Scala or Python (Pyspark)
+
+- **For Scala**: Install sbt, module builder for Scala
 
 ```sh
 echo "deb https://dl.bintray.com/sbt/debian /" | sudo tee -a /etc/apt/sources.list.d/sbt.list
@@ -28,7 +32,7 @@ apt update
 apt install sbt
 ```
 
-3.2.1 Spark with Python (Pyspark)
+- **For Python**: Spark with Python (Pyspark)
 
 ```sh
 apt install python3-pip
@@ -41,7 +45,7 @@ pip3 install pyspark
 pip3 install findspark
 ```
 
-3.2.2 Jupyter Notebook with Pyspark
+- **For Python Jupyter Notebook**: Jupyter Notebook with Pyspark
 
 **Note**: Execute `jupyter notebook --no-browser --allow-root`, notebook file will store at current location that Jupyter Notebook got run.
 
@@ -69,11 +73,11 @@ export PYSPARK_PYTHON=python3
 
 7. Test all the thing that you've done
 
-7.1 Testing for Scala in Spark
+- **For Scala**: Testing for Scala in Spark just execute `spark-shell`
 
-`spark-shell`
+- **For Python**: Testing for Pyspark, just execute `pyspark`
 
-7.2 Testing for Pyspark in Jupyter Notebook
+- **For Python Jupyter Notebook**: Testing for Pyspark in Jupyter Notebook
 
 ```python
 # In notebook
