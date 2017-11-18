@@ -1,4 +1,4 @@
-## Alias python3 and pip3 usage
+# Alias python3 and pip3 usage
 
 Edit last line of `~/.bashrc`, `~/.bash_aliases` or `~/.zshrc` with
 
